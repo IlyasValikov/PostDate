@@ -8,9 +8,9 @@ public class Main {
         post.telephone = "8 (999) 999 99 99";
         post.subscription = true;
         post.birthday = new FormDate();
-        post.birthday.day = "12";
-        post.birthday.month = "11";
-        post.birthday.year = "2000";
+        post.birthday.day = 12;
+        post.birthday.month = 11;
+        post.birthday.year = 2000;
 
     }
 }
